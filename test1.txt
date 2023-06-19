@@ -6,3 +6,4 @@ I have completed my msc in 2022.
 I have started my IT jon in 2023.
 I will join att MFile 1st of December.
 New functionality will be added due to customer requirements.
+navbar added with new things
